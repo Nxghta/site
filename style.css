@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@1,300&display=swap');
+
+html
+{
+    font-family:'Barlow', sans-serif;
+    text-align: center;
+    background: rgb(79,76,110);
+    background: linear-gradient(90deg, rgba(79,76,110,1) 5%, rgba(17,17,168,1) 69%, rgba(0,212,255,1) 100%);
+}
